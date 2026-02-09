@@ -33,6 +33,19 @@ Project notable:
         minishell
       </a>
     </td>
+        <td align="center">
+      <a href="https://github.com/PacoGim/cub3d">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/cub3dm.png" width="100"><br>
+        cub3d
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PacoGim/inception">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/inceptionm.png" width="100"><br>
+        inception
+      </a>
+    </td>
+  </tr>
 </table>
 
 Lecteur de musique multiplateforme (100k+ titres) développé en Svelte, TypeScript, Electron et SQLite.
