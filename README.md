@@ -48,8 +48,6 @@ Project notable:
   </tr>
 </table>
 
-Lecteur de musique multiplateforme (100k+ titres) développé en Svelte, TypeScript, Electron et SQLite.
-
 Recherche un stage full-stack (4–6 mois).
 
 FR / EN
