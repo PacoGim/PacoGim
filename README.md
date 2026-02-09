@@ -21,6 +21,18 @@ Project notable:
         Jahmin
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/PacoGim/WebServ">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/webservm.png" width="100"><br>
+        webserv
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PacoGim/minishell">
+        <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/refs/heads/main/badges/minishellm.png" width="100"><br>
+        minishell
+      </a>
+    </td>
 </table>
 
 Lecteur de musique multiplateforme (100k+ titres) développé en Svelte, TypeScript, Electron et SQLite.
