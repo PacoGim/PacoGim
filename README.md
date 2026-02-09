@@ -18,7 +18,7 @@ Project notable:
     <td align="center">
       <a href="https://github.com/PacoGim/Jahmin">
         <img src="https://raw.githubusercontent.com/PacoGim/PacoGim.github.io/main/public/img/jahmin_logo.svg" width="100"><br>
-        webserv
+        Jahmin
       </a>
     </td>
 </table>
