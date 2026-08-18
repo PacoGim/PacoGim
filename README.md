@@ -1,7 +1,7 @@
 # Paco Gimeno
 
 Full-Stack Developer @ 42 Paris
-Svelte • TypeScript • Node.js • Electron
+React • TypeScript • Node.js • Electron
 
 Je construis des applications web et desktop, de l'idée à la mise en production.
 
@@ -48,7 +48,7 @@ Project notable:
   </tr>
 </table>
 
-Recherche un stage full-stack (4–6 mois).
+Recherche un stage full-stack (6 mois).
 
 FR / EN
 https://pacogim.github.io
